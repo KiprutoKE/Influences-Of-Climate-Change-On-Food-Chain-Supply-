@@ -1,7 +1,8 @@
 pandas
-numpy 
+numpy
 matplotlib
 seaborn
 scikit-learn
 statsmodels
 plotly
+prophet
